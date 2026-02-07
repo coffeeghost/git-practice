@@ -3,3 +3,7 @@
 ## About
 
 This project is for learning Git branches
+
+## Workflow
+
+This repository demonstrates Git workflows using branches and pull requests.
