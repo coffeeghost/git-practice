@@ -10,4 +10,5 @@ This repository demonstrates Git workflows using branches and pull requests.
 
 ## Team
 
-Cyclops contributing parallel changes
+Cyclops and Ghost is working on documentation.
+
